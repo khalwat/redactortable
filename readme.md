@@ -10,7 +10,7 @@ Adds inline tables to rich text fields in Craft CMS via the Redactor Table plugi
 
 ## Usage
 
-Add 'table' to the plugins array in your Redactor plugins configuration: http://buildwithcraft.com/docs/rich-text-fields#redactor-configs):
+Add 'table' to the plugins array in your Redactor plugins configuration: http://buildwithcraft.com/docs/rich-text-fields#redactor-configs): 
 
 ```
 {
